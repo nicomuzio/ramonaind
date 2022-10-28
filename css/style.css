@@ -1,0 +1,253 @@
+#fotomain{
+    background-image: url("media/ramona1.jpg");
+background-image: no-repeat;
+background-image: fixed;
+background-image: center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+    
+
+
+
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color:white;
+    text-decoration:solid;
+    font-size: 17px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #04AA6D;
+  }
+  
+  /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+  .tuvieja{
+    background-color: rgb(86, 160, 160);
+  }
+  .titulo{
+    font-style: initial;
+    font-feature-settings: "blwm";
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: semi-expanded;
+    
+  }
+  .subtitulo{
+    font-size: larger;
+    font-family: cursive;
+  }
+ .piedepagina{
+    font-size: small;
+    justify-content: end;
+    align-content: space-between;
+ }
+  .images1{
+    padding: 90px; margin: 150px;
+    background-color: black;
+  }
+  .images2{
+    padding: 90px; margin: 150px;
+    background-color: rgb(203, 23, 23);
+
+  }
+  .images3{
+    padding: 90px; margin: 150px;
+    background-color: rgb(23, 171, 10);
+  }
+  .images4{
+    padding: 90px; margin: 150px;
+    background-color: rgb(41, 16, 202);
+  }
+  .listacontacto{
+    list-style-type: none;
+  }
+  .navbar{
+    background-color: rgb(81, 154, 103);
+  }
+  .bodygaleria{
+    background-color: blanchedalmond;
+  }
+  .bodyindex{
+    background-color: blanchedalmond;
+  }
+    .bodycontacto{
+    
+        background-color: rgb(42, 53, 209);
+    }
+        .bodysobrenosotros{
+            background-color: blanchedalmond;
+        }
+        .bodytienda{
+            background-color: blanchedalmond;
+        }
+        .piedepagina{
+            justify-content: end;
+            align-content: stretch;
+        }
+     .divdivisor{
+        height: 600px;
+     }
+     .titulos{
+        background-color: transparent;
+     }
+     .parent {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        row-gap: 1px;
+        column-gap: 1px;
+        border-color: black;
+        }
+        
+        .div1 { grid-area: 1 / 1 / 6 / 6; }
+        .parent {
+            background-color: black;
+        }
+      
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
