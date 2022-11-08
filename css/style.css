@@ -1,13 +1,4 @@
-#fotomain{
-    background-image: url("media/ramona1.jpg");
-background-image: no-repeat;
-background-image: fixed;
-background-image: center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
+
     
 
 
@@ -30,7 +21,7 @@ background-size: cover;
   
   /* Navbar links on mouse-over */
   .navbar a:hover {
-    background-color: #000;
+    background-color: rgb(28, 184, 196);
   }
   
   /* Current/active navbar link */
@@ -89,7 +80,7 @@ background-size: cover;
     background-color: rgb(81, 154, 103);
   }
   .bodygaleria{
-    background-color: rgb(43, 192, 123);
+    background-color: #04AA6D;
   }
   .bodyindex{
     background-color: rgb(43, 192, 123);
@@ -112,7 +103,7 @@ background-size: cover;
         height: 600px;
      }
      .titulos{
-        background-color: rgb(185, 207, 116);
+        background-color: #04AA6D;
         width: auto;
         height: 100px;
         padding: auto;
@@ -299,4 +290,39 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .divindex{
   height: 500px;
   width: 500px;
+}
+.divindex{
+  height: 380px;
+  width: 200%;
+  background-image: url(/media/ramona6.jpg);
+  background-repeat: no-repeat;
+  border-width: 3px;
+  border-color: black;
+  padding: 3px;
+}
+.galeria{
+  width: auto;
+  height: auto;
+}
+.botonig{
+  background-color: #c3db0d;
+  border-radius: 3px;
+  align-content: center;
+}
+.botonfb{
+  background-color: #c3db0d;
+  border-radius: 3px;
+}
+.fb{
+  font-display: none;
+}
+.listadecontacto{
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+}
+.listacontacto{
+  display: inline-block;
+  align-items: center;
+  align-content: center;
 }
