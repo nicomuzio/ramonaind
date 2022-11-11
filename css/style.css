@@ -283,8 +283,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   
 }
 .divindex{
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
 }
 
 .galeria{
@@ -419,6 +419,11 @@ a.my-button{
 border: #c08c18; 
 border-bottom: #c08c18;
 border-style: solid;
-border-radius: 2px;
-
+border-radius: 10px;
+}
+.botontienda{
+  background-color: #E9FF33;
+}
+.carouselExampleSlidesOnly{
+  h-200 w-200;
 }
