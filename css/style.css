@@ -428,4 +428,5 @@ border-radius: 10px;
   height: 200px;
 }
 .bodytienda{
-  overflow: scroll;}
+  overflow-x: hidden;
+}
