@@ -424,3 +424,8 @@ border-radius: 10px;
 .botontienda{
   background-color: #E9FF33;
 }
+.divbb{
+  height: 200px;
+}
+.bodytienda{
+  overflow: scroll;}
