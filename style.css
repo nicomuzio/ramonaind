@@ -826,5 +826,9 @@ body, button, input {
   font-weight: bolder;
   color: #da1862;
 }
-
-/*# sourceMappingURL=style.css.map */
+.bg-light text-center text-lg-start{
+  width: 100%;
+}
+.divfooter{
+  width: auto;
+}/*# sourceMappingURL=style.css.map */
