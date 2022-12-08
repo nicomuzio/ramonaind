@@ -831,4 +831,17 @@ body, button, input {
 }
 .divfooter{
   width: auto;
-}/*# sourceMappingURL=style.css.map */
+}
+.cardo{
+  
+ 
+  display:inline-block;
+  font-display: flex;
+  padding: 2px;
+  margin: 2px;
+ 
+}
+
+.botontienda{
+  color: #da1862;
+}
